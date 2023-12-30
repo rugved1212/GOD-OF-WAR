@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: dfd15ebce42884f4cb1b937167ee231e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08_-_Default
+    second: {fileID: 2100000, guid: 1cd1e6a314a0c9647be1afd2a02c8d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08_-_Default_TX_kratos_beard1_d_9F2A763A05E3004C.dds
+    second: {fileID: 2100000, guid: 46f876c7f2ade474583d34b34d89c780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None
+    second: {fileID: 2100000, guid: b050fb6a692c38c49b41a4ffe753be64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_NONE
+    second: {fileID: 2100000, guid: 0e78e37f96002584881ea8e9f076637d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_defense01_arms_0_7_d.dds
+    second: {fileID: 2100000, guid: 9d9384d166a223f4e9efe69a1a6d351c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_k_shoulder02_m1_diffuse_A5C975230CAFE28C.dds
+    second: {fileID: 2100000, guid: e22aaa21462d0fd4b81453ca368be0c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_kratos00_bandagesfx_0_2_diffus_08771B20A8CB3465.dds
+    second: {fileID: 2100000, guid: c4dab0c13b2cc18478998135c8630b85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_kratos00_sharedfx_0_3_diffuse_E10026ABD9565B16.dds
+    second: {fileID: 2100000, guid: a08f74b0d36863f47abcfdaf71dc4423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_kratos_arms_m_skintemp_0_2_dif.dds
+    second: {fileID: 2100000, guid: a4762a1452873e04990735ba1ce135ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_kratos_eyebrow1_d_80313E0EC6D56AB0.dds
+    second: {fileID: 2100000, guid: 6e0d1d40b5e1ef24397ba37138ed1390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_kratos_head_m_skintemp_0_2_dif.dds
+    second: {fileID: 2100000, guid: 5970f925523547c45b5b0308d966b8e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_kratos_torso_m_skintemp_0_2_dif.dds
+    second: {fileID: 2100000, guid: e339ceeeb3b446942bf86b0be1ce5f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_kratosclegs_m_0_7_d.dds
+    second: {fileID: 2100000, guid: 03ab4f52fe9f6d3449e6ad58ace9784d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_kratosknives00_diffuse_F62FBFB00F218EDB.dds
+    second: {fileID: 2100000, guid: 7b3cfd782b1a6894587b78f2fc21ecd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_mother_ashes_m_0_8_diffuse_49D59B607DD55BD6.dds
+    second: {fileID: 2100000, guid: 2b516a5d2961516439391053868910e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_offense01_r_arms_0_8_d.dds
+    second: {fileID: 2100000, guid: 846d10e6cff1e1d46b976684299a739e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_offense01_shouldersringstrap_dif_A9AFF26B88FCDBEB.dds
+    second: {fileID: 2100000, guid: a3bc11ba835e7bb4bbe1895839f30e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_offense01_waist_0_8_diffuse.dds
+    second: {fileID: 2100000, guid: ab40e8a40eca35e40904af31bb615d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_offense01_waistbotbelt_0_4_dif_DB4FE308467ADA42.dds
+    second: {fileID: 2100000, guid: 5bcf5030353eb7a4ea6d1d1bd3463906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_offense01_waistskirt_0_6_diffu_C80E1626EC06A23B_dx10_
+    second: {fileID: 2100000, guid: 7ad54bb678191914bb1278936572faaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_son00_eyelash_a.dds.001
+    second: {fileID: 2100000, guid: 74c4f6e85f20bd2438908e3ff9e4166f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_standardeye00_inner_d_C98494D83A212377.dds
+    second: {fileID: 2100000, guid: 41823d9703167414f87d8ccc9f99013d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None_TX_standardeye00_lacrimal_d_4A42CE4B3816B625.dds.001
+    second: {fileID: 2100000, guid: 363d87db173fe0e4ebaa2b65a92a2f90, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
