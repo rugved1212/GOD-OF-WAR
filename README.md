@@ -1,5 +1,6 @@
 # GOD-OF-WAR
 
+Google Drive Link of .exe file: https://drive.google.com/file/d/1LOBlk_yCFP_kOzTKXSVvQdMl9Wajei_4/view?usp=sharing
 Youtube Video Link : https://youtu.be/p_yvdIV288s
 
 ![image](https://github.com/rugved1212/GOD-OF-WAR/assets/133367170/4d08a12d-2a70-4d0a-a5b4-090a1d0cb5e9)
