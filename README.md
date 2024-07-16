@@ -1,8 +1,15 @@
 # GOD-OF-WAR
 
-Google Drive Link of .exe file: https://drive.google.com/file/d/1LOBlk_yCFP_kOzTKXSVvQdMl9Wajei_4/view?usp=sharing
+# Introduction
+ It is an action-adventure game which is played by a single-player. It is entirely a story-based which has a character KRATOS which fights with evils as a revenge for his wife dead. It is developed on UNITY engine is a desktop game.
 
-Youtube Video Link : https://youtu.be/p_yvdIV288s
+# Exe File Download link: 
+- Google Drive Link of .exe file: https://drive.google.com/file/d/1LOBlk_yCFP_kOzTKXSVvQdMl9Wajei_4/view?usp=sharing
+
+# Youtube
+- Video Link : https://youtu.be/p_yvdIV288s
+
+# ScreenShot
 
 ![image](https://github.com/rugved1212/GOD-OF-WAR/assets/133367170/4d08a12d-2a70-4d0a-a5b4-090a1d0cb5e9)
 ![image](https://github.com/rugved1212/GOD-OF-WAR/assets/133367170/2314cbac-2fbb-4e6b-a24e-6d2e0fb87e32)
